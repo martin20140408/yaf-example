@@ -3,11 +3,8 @@
         "php": ">=5.5.9",
         "illuminate/database": "5.1.*",
         "illuminate/events": "5.1.*",
-        "symfony/debug": "2.6.*",
-        "symfony/var-dumper": "2.6.*",
         "twig/twig": "^1.26",
-        "smarty/smarty": "~3.1",
-        "nesbot/carbon": "~1.21"
+        "monolog/monolog": "^1.25"
     },
   
     "autoload": {
